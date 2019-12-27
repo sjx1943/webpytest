@@ -11,6 +11,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+print('test')
 urls = (
   '/', 'Index',
   '/add', 'Add',
